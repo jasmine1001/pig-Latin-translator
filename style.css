@@ -1,0 +1,42 @@
+.nav{
+    background-color: rgb(172, 167, 167);
+    text-align:center;
+    height: 5rem;
+    
+}
+#txt-input{
+    margin: 3rem;
+    padding: 1rem;
+    width: 60%;
+    height: 15vh;
+    display: block;
+    background-color: rgb(241, 235, 235)
+}
+#output{
+    border: 1px solid black;
+    margin: 3rem;
+    padding: 3rem;
+    width: 50%;
+    height: 7vh;
+background-color: rgb(241, 235, 235)
+}
+
+#btn{
+    background-color: rgb(172, 167, 167);
+    margin: 1rem;
+    height: 6vh
+}
+body{
+    font-family:cursive;
+    background-color: rgb(62, 136, 136);
+}
+h2{
+    text-align: center;
+}
+.about{
+    background-color: rgb(172, 167, 167);
+}
+h1{
+    text-align: center;
+    padding: 1rem;
+}
